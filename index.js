@@ -14,7 +14,7 @@ var localData = [
   "礁溪湯圍溝",
 ];
 
-var liContent = "";
+var liContent = "";//儲存項目的html
 
 for (var i = 0; i < localData.length; i++) {
   liContent +=
